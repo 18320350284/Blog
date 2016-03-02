@@ -1,3 +1,6 @@
 eclipse.preferences.version=1
+encoding//sql/blog_article.sql=UTF-8
+encoding//sql/category.sql=UTF-8
+encoding//sql/xgcalendar.sql=UTF-8
 encoding/src=UTF-8
 encoding/src-Resource=UTF-8
