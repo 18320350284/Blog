@@ -14,7 +14,7 @@
     <link rel="apple-touch-icon-precomposed" href="#">
 	<link rel="shortcut icon" href="#">
 
-    <title>coding云</title>
+    <title>我的博客</title>
 
     <!-- Bootstrap core CSS -->
     <link href="http://cdn.bootcss.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">

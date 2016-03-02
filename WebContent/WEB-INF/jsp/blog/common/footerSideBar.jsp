@@ -3,7 +3,7 @@
 	  <div class="container">
 	    <div class="row footer-top">
 	      <div class="col-sm-6 col-lg-6">
-	         <p>我得博客</p>
+	         <p>我的博客</p>
 	         <div class="col-xs-3" style="margin-top:50px;">
 	            <ul class="list-unstyled">
 	              <li><i class="icon-book"></i><a href="#"> 网站</a></li>
@@ -38,7 +38,7 @@
 	    <hr/>
 	    <div class="row footer-bottom">
 	      <ul class="list-inline text-center">
-	        <li>Coding云   Copyright 2014.All Rights Reserved <a target="_blank" href="http://www.miitbeian.gov.cn/">蒙ICP备14003192号.</a></li>
+	        <li>博客  Copyright 2016.All Rights Reserved <a target="_blank" href="http://www.miitbeian.gov.cn/">金航</a></li>
 <!-- 	        <li> -->
 <!-- 	        	<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1253158712'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s13.cnzz.com/stat.php%3Fid%3D1253158712%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script> -->
 <!-- 	        </li> -->

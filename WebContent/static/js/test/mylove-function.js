@@ -1,8 +1,4 @@
-/*=======================================*/
-/*	注册测试功能的js                           */
-/*	@author 王勇                         */
-/*	2014年5月30日16:27:41                          */
-/*=======================================*/
+
 	   
 var $window = $(window), gardenCtx, gardenCanvas, $garden, garden;
 var clientWidth = $(window).width();

@@ -1,9 +1,3 @@
-/*=======================================*/
-/*	注册测试功能的js                           */
-/*	@author 王勇                         */
-/*	2014年5月30日16:27:41                          */
-/*=======================================*/
-
 $(document).ready(function(){
 	$("#saveBtn").on('click',function(){
 		queryEpPage();
@@ -11,7 +5,7 @@ $(document).ready(function(){
 });
 
 function queryEpPage(){
-// 			var datasent = {"userName":"王test","userPass":"admin","userEmail":"wangyong@qq.com"};
+// 			var datasent = {"userName":"test","userPass":"admin","userEmail":"2238481706@qq.com"};
 	var datasent = $("#registerForm").serializeObject();
 	params = JSON.stringify(datasent); 
 	$.ajax({

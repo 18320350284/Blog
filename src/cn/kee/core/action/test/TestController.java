@@ -15,7 +15,7 @@ public class TestController {
 	
 	/**
 	 * 建立lucence索引
-	 * @user coding云
+	 * @user 博客
 	 * 2014年12月17日
 	 */
 	@RequestMapping(value = "createLuceneIndex", method = RequestMethod.GET)

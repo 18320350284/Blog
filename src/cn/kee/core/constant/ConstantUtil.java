@@ -51,6 +51,6 @@ public class ConstantUtil {
 	
 	public static String ARTICLE_FOOTER_ADD = "<p align=\"center\"><strong><span style=\"font-size:15px;color:#009900;\"> " +
 			"(转载本站原创文章请注明作者与出处</span></strong><a href=\"http://www.codingyun.com\">" +
-			"<strong><span style=\"font-size:18px;\">Coding云--codingyun.com</span></strong></a><strong>" +
+			"<strong><span style=\"font-size:18px;\">博客--codingyun.com</span></strong></a><strong>" +
 			"<span style=\"font-size:18px;color:#009900;\">)</span></strong></p>";
 }

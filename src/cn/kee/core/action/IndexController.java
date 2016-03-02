@@ -69,7 +69,7 @@ public class IndexController extends BaseController {
 	}
 	
 	/**
-	 * coding云活动页面
+	 * 博客活动页面
 	 * @user jack
 	 * 2015年4月23日
 	 */

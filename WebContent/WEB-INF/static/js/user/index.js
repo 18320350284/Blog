@@ -1,9 +1,3 @@
-/*=======================================*/
-/*	注册测试功能的js                           */
-/*	@author 王勇                         */
-/*	2014年5月30日16:27:41                          */
-/*=======================================*/
-
 $(document).ready(function(){
 	$("#testRegister").on('click',function(){
 		$("#testDiv").load('/user/register/test');

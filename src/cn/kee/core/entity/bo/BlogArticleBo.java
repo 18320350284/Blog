@@ -32,7 +32,7 @@ public class BlogArticleBo {
 	/**
 	 * 作者
 	 */
-	private String author = "coding云";
+	private String author = "博客";
 	/**
 	 * 阅读次数
 	 */
@@ -55,11 +55,11 @@ public class BlogArticleBo {
 	/**
 	 * 网页的关键词
 	 */
-	private String keyWords = "coding云,coding";
+	private String keyWords = "博客,coding";
 	/**
 	 * 网页的描述
 	 */
-	private String description = "作为一个java程序员,coding云希望将自己懂得技术,包含但不限于nginx,tomcat,spring mvc,ssh等分享给大家。";
+	private String description = "作为一个java程序员,博客希望将自己懂得技术,包含但不限于nginx,tomcat,spring mvc,ssh等分享给大家。";
 
 	/**
 	 * 网页的tag
@@ -214,7 +214,7 @@ public class BlogArticleBo {
 	}
 
 	public String getHtmlTitle(){
-		return this.getTitle() + "_博客_coding云";
+		return this.getTitle() + "_博客_博客";
 	}
 	
 	

@@ -25,7 +25,7 @@ $(document).ready(function(){
 });
 
 function login(){
-// 			var datasent = {"userName":"王test","userPass":"admin","userEmail":"wangyong@qq.com"};
+    var datasent = {"userName":"test","userPass":"admin","userEmail":"2238481706@qq.com"};
 	var btn = $("#loginBtn");
     btn.button('loading');
 	var datasent = $("#loginForm").serializeObject();
