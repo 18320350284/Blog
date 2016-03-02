@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 /**
  * 返回前台的json数据
- * @author 王勇
+ * @author jinhang
  * @date 2014-5-29 15:36:59
  */
 public class JsonResult<T> implements Serializable{

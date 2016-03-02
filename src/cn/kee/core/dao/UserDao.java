@@ -19,7 +19,7 @@ public interface UserDao {
 	
 	/**
 	 * 通过用户的sessionId获取用户信息
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年6月7日
 	 */
 	public User getUserBySessionId(String sessionId) throws Exception;
@@ -29,7 +29,7 @@ public interface UserDao {
 	public User getUserByQqUuid(String qqUuId) throws Exception;
 	/**
 	 * 根据邮箱获取系统管理员信息
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年6月24日
 	 */
 	public SysUserBo getSysUserByEmail(String userEmail) throws Exception;

@@ -107,7 +107,7 @@ public class SysArticleController extends BaseController {
 	
 	/**
 	 * 新增讲义图片
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年8月22日
 	 */
 	@RequestMapping(value = "uploadJson", method = RequestMethod.POST)

@@ -24,7 +24,7 @@ public class CategoryController {
 	
 	/**
 	 * 根据分类获取文章列表
-	 * @user 王勇
+	 * @user jinhang
 	 * 2015年6月11日
 	 */
     @RequestMapping(value="/{categoryCode:[\\d]+}")  

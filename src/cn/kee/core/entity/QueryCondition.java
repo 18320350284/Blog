@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  * 前台与后台交互的查询条件
- * @author 王勇
+ * @author jinhang
  * 2014年6月4日
  */
 public class QueryCondition implements Serializable {

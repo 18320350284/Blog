@@ -14,7 +14,7 @@ public class SysIndexController extends BaseController {
 
 	/**
 	 * 初始页面默认到系统管理员主页
-	 * 王勇
+	 * jinhang
 	 * 2014-6-4 16:46:32
 	 */
 	@RequestMapping(value = "", method = RequestMethod.GET)

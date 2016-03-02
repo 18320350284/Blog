@@ -27,7 +27,7 @@ public class LuceneIndexUtil {
 	/**
 	 * @param indexPath 索引文件保存到的目录
 	 * @param article 待建立索引的对象
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年12月17日
 	 */
 	public static void createLuceneIndex(String indexPath, BlogArticleBo article, boolean createOrUpdate) throws Exception{

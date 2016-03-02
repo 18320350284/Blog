@@ -19,7 +19,7 @@ import cn.kee.core.util.StringUtil;
 
 /**
  * 将支付宝账单导入到捐款活动表中
- * @author 王勇
+ * @author jinhang
  * 2015年5月15日
  */
 @ContextConfiguration(locations = {"classpath*:/META-INF/jdbc-context.xml","classpath*:/META-INF/springMvc3-servlet.xml"})  

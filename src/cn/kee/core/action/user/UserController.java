@@ -27,7 +27,7 @@ public class UserController extends BaseController {
 	
 	/**
 	 * 用户登录
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年11月10日
 	 */
 	@RequestMapping(value = "login", method = RequestMethod.GET)
@@ -37,7 +37,7 @@ public class UserController extends BaseController {
 	
 	/**
 	 * 用户注册
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年11月10日
 	 */
 	@RequestMapping(value = "register", method = RequestMethod.GET)
@@ -47,7 +47,7 @@ public class UserController extends BaseController {
 	
 	/**
 	 * 用户登录接口
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年11月12日
 	 */
 	@RequestMapping(value = "loginCheck", method = RequestMethod.POST)
@@ -74,7 +74,7 @@ public class UserController extends BaseController {
 	
 	/**
 	 * 用户注册
-	 * @author 王勇
+	 * @author jinhang
 	 * @date 2014年11月12日
 	 */
 	@RequestMapping(value = "register", method = RequestMethod.POST)

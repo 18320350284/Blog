@@ -4,7 +4,7 @@ import java.util.Date;
 
 /**
  * 支付宝捐款活动，用户订单表
- * @author 王勇
+ * @author jinhang
  * 2015年5月15日
  */
 public class AlipayEventUser {

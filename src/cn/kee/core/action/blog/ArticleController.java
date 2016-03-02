@@ -33,7 +33,7 @@ public class ArticleController extends BaseController {
 	 * 根据网址获取文章的html页面
 	 * 比如如下的URL：/123.html，则输出：
 		namePart: 123, expandedPart: html. 
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年8月14日
 	 */
     @RequestMapping(value="/{namePart:[\\d]+}.{expandedPart:html}")  

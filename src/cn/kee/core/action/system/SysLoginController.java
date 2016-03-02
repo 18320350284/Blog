@@ -21,7 +21,7 @@ import com.google.gson.Gson;
 
 /**
  * 后台管理用户登录
- * @author 王勇
+ * @author jinhang
  * 2014年5月30日
  */
 @Controller
@@ -48,7 +48,7 @@ private Logger logger = Logger.getLogger(this.getClass());
 	
 	/**
 	 * 系统管理员登录接口
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年5月30日
 	 */
 	@RequestMapping(value = "loginCheck", method = RequestMethod.POST)

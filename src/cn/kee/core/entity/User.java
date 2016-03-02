@@ -9,7 +9,7 @@ import cn.kee.core.util.MD5Util;
 
 /**
  * 用户信息
- * @author 王勇
+ * @author jinhang
  * @date 2014-5-27 15:06:15
  *
  */
@@ -283,7 +283,7 @@ public class User implements Serializable{
 	/**
 	 * 用户登录是否已过期
 	 * true：已过期    false：未过期
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年6月9日
 	 */
 	public boolean userLoginStatus(){

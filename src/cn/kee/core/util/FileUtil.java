@@ -11,7 +11,7 @@ public class FileUtil {
 	
 	/**
 	 * 转换spring的MultipartFile 到file
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年6月23日
 	 */
 	public static File multipartToFile(MultipartFile multipart) throws IllegalStateException, IOException {

@@ -5,7 +5,7 @@ import java.io.Serializable;
 import org.springframework.web.multipart.MultipartFile;
 /**
  * 修改用户头像的实体类
- * @author 王勇
+ * @author jinhang
  * 2014年6月18日
  */
 public class UserVo implements Serializable{

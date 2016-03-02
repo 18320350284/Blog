@@ -7,7 +7,7 @@ import cn.kee.core.util.StringUtil;
 
 /**
  * 博客文章
- * @author 王勇
+ * @author jinhang
  * 2014年8月13日
  */
 public class BlogArticleBo {

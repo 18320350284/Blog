@@ -89,7 +89,7 @@ public class DateUtil {
 	
 	/**
 	 * 将时间增减 n 分钟
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年9月25日
 	 */
 	public static Date addMinute(Date date, int minutes){
@@ -98,7 +98,7 @@ public class DateUtil {
 	
 	/**
 	 * 将时间增减 n 秒
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年9月25日
 	 */
 	public static Date addSecond(Date date, int second){
@@ -145,7 +145,7 @@ public class DateUtil {
 	
 	/**
 	 * 获取当前日期所在周的第一天
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年9月23日
 	 */
 	public static Date getWeekStart(Date date){
@@ -163,7 +163,7 @@ public class DateUtil {
 	
 	/**
 	 * 获取当前日期所在周的最后一天
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年9月23日
 	 */
 	public static Date getWeekEnd(Date date){
@@ -172,7 +172,7 @@ public class DateUtil {
 	
 	/**
 	 * 获取当前日期所在月份的第一天
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年9月23日
 	 */
 	public static Date getMonthStart(Date date){
@@ -187,7 +187,7 @@ public class DateUtil {
 	
 	/**
 	 * 获取当前日期所在月份的最后一天
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年9月23日
 	 */
 	public static Date getMonthEnd(Date date){

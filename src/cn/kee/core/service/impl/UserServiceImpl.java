@@ -53,7 +53,7 @@ public class UserServiceImpl implements UserService {
 	/**
 	 * 验证用户是否已经存在，包括用户名验证以及邮箱验证
 	 * @return false 不存在；true 存在
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年5月30日
 	 */
 	private void existUser(User user) throws Exception{

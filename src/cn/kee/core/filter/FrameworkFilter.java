@@ -2,7 +2,7 @@ package cn.kee.core.filter;
 
 /**
  * Filter过滤器对请求进行判断
- * @author 王勇
+ * @author jinhang
  * @date 2014-5-27 15:10:40
  */
 

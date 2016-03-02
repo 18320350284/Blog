@@ -17,7 +17,7 @@ public interface GeneralDao {
 	public <T> List<T> getEntityList(Class<T> beanClass, String sql, Object[] values) throws Exception;
 	/**
 	 * 通过sql以及分页页数查询分页数据list
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年11月14日
 	 */
 	public <T>PageBean<T> getPageBeans(Class<T> beanClass, String sql, int pageNo, int pageSize, Object...objs) throws Exception;
@@ -56,7 +56,7 @@ public interface GeneralDao {
 	
 	/**
 	 * 执行删除的sql语句
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年11月13日
 	 */
 	public boolean delEntityBySql(String sql, final Object... objs) throws Exception;
@@ -86,14 +86,14 @@ public interface GeneralDao {
 	/**
 	 * 新增数据返回主键
 	 * 相比saveEntityReturnKey(String insertSql, final Object... params)效率低一些
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年11月14日
 	 */
 	public int saveEntityReturnKey(Object obj) throws Exception;
 	
 	/**
 	 * 新增数据库数据，只需要传入对象即可
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年5月28日
 	 */
 	public boolean saveEntity(Object obj) throws Exception;

@@ -12,7 +12,7 @@ public class AudioUtil {
 	
 	/**
 	 * 获取amr文件的音频长度
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年7月1日
 	 */
 	public static int getDurationOfAmr(File file){
@@ -32,7 +32,7 @@ public class AudioUtil {
 	}
 	/**
 	 * 获取mp3音频文件的长度
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年7月1日
 	 */
 	public static int getDurationOfMp3(File file){

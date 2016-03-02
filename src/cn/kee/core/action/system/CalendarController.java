@@ -53,7 +53,7 @@ public class CalendarController extends BaseController{
 	
 	/**
 	 * 查询calendar
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年9月22日
 	 */
 	@RequestMapping(value = "getCalendar", method = RequestMethod.POST)
@@ -124,7 +124,7 @@ public class CalendarController extends BaseController{
 	
 	/**
 	 * 新增calendar
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年9月23日
 	 */
 	@RequestMapping(value = "quickAdd", method = RequestMethod.POST)
@@ -153,7 +153,7 @@ public class CalendarController extends BaseController{
 	
 	/**
 	 * 修改calendar
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年9月23日
 	 */
 	@RequestMapping(value = "quickUpdate", method = RequestMethod.POST)
@@ -180,7 +180,7 @@ public class CalendarController extends BaseController{
 	
 	/**
 	 * 修改calendar
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年9月23日
 	 */
 	@RequestMapping(value="updatePage/{namePart:[\\d]+}")
@@ -191,7 +191,7 @@ public class CalendarController extends BaseController{
 	
 	/**
 	 * 删除calendar
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年9月23日
 	 */
 	@RequestMapping(value = "quickDel", method = RequestMethod.POST)

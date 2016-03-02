@@ -23,7 +23,7 @@ public class LuceneSearchUtil {
 	/**
 	 * 跨度查询
 	 * 根据关键字的词距查询，关键字必须是单词或者单个的汉字，不能查询单词里的个别字母
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年12月23日
 	 */
 	public static void spanSearch(String indexPath, String field, int slop, int pageSize, String... queryString) throws Exception{
@@ -44,7 +44,7 @@ public class LuceneSearchUtil {
 	 * @param field 要查询的索引字段，比如查询title还是查询content
 	 * @param queryString 要在索引字段查询的关键字
 	 * @param pageSize 每页条数
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年12月18日
 	 */
 	public static void searchLuceneIndex(String indexPath, String field, String queryString, int pageSize) throws Exception{
@@ -70,7 +70,7 @@ public class LuceneSearchUtil {
 	/**
 	 * @param query 查询的关键字
 	 * @param hitsPerPage 每页显示几条
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年12月18日
 	 */
 	private static void doPagingSearch(

@@ -6,7 +6,7 @@ import cn.kee.core.constant.TableConstant;
 
 /**
  * 对象工具类
- * @author 王勇
+ * @author jinhang
  */
 public class ObjectUtil {
 	
@@ -28,7 +28,7 @@ public class ObjectUtil {
 	/**
 	 * 为框架的GeneralDao提供工具方法
 	 * 拿到实体类后，返回需要insert到数据库中的字段数组，该数组不包括（serialVersionUID，主键）两个字段
-	 * @user 王勇
+	 * @user jinhang
 	 * 2014年5月28日
 	 */
 	public static <T> String[] getEntityFiled(Class<T> beanClass){
