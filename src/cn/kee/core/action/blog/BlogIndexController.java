@@ -26,7 +26,7 @@ package cn.kee.core.action.blog;
 //	
 //	/**
 //	 * 博客主页
-//	 * @user jack
+//	 * @user jinhang
 //	 * 2014年8月6日
 //	 */
 //	@RequestMapping(value = "", method = RequestMethod.GET)
@@ -45,7 +45,7 @@ package cn.kee.core.action.blog;
 //
 //	/**
 //	 * 留下你的想法（用户留言本）
-//	 * @user jack
+//	 * @user jinhang
 //	 * 2014年8月6日
 //	 */
 //	@RequestMapping(value = "leaveYourMind", method = RequestMethod.GET)

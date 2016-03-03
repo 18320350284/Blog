@@ -28,8 +28,8 @@ public class BaseController {
 	
 	/**
 	 * Spring MVC 允许向整个 Spring 框架注册属性编辑器，它们对所有 Controller 都有影响。当然 Spring MVC 也允许仅向某个 Controller 注册属性编辑器，对其它的 Controller 没有影响。前者可以通过 AnnotationMethodHandlerAdapter 的配置做到，而后者则可以通过 @InitBinder 注解实现。
-	 * jack
-	 * 2013-7-5
+	 * jinhang
+	 * 2015-7-5
 	 */
 	@InitBinder
 	protected void ininBinder(WebDataBinder binder){
@@ -41,7 +41,7 @@ public class BaseController {
 	/**
 	 * 获取request
 	 * shhc
-	 * 2013-7-5
+	 * 2015-7-5
 	 */
 	protected HttpServletRequest getRequest() {
 		return ((ServletRequestAttributes)RequestContextHolder.getRequestAttributes()).getRequest();

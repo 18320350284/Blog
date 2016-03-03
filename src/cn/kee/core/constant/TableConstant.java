@@ -10,8 +10,8 @@ import java.util.Map;
  * 所有实体bean与表名称对应关系
  * 1. 操作数据库时，会从这里取对应表名称，如有新建表，请维护该类
  * 2. 操作数据库时，也会从这里取对应表的主键字段名称
- * @author jack
- * 2013.9.4
+ * @author jinhang
+ * 2015.9.4
  */
 public class TableConstant {
 

@@ -35,7 +35,7 @@ public class SysArticleController extends BaseController {
 	
 	/**
 	 * 系统管理员  管理文章 
-	 * @user jack
+	 * @user jinhang
 	 * 2014年8月7日
 	 */
 	@RequestMapping(value = "", method = RequestMethod.GET)

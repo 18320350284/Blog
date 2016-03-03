@@ -30,7 +30,7 @@ public class IndexController extends BaseController {
 	
 	/**
 	 * 主页
-	 * @user jack
+	 * @user jinhang
 	 * 2014年8月6日
 	 */
 	@RequestMapping(value = "", method = RequestMethod.GET)
@@ -41,7 +41,7 @@ public class IndexController extends BaseController {
 	
 	/**
 	 * 博客主页
-	 * @user jack
+	 * @user jinhang
 	 * 2014年8月6日
 	 */
 	@RequestMapping(value = "blog", method = RequestMethod.GET)
@@ -60,7 +60,7 @@ public class IndexController extends BaseController {
 	
 	/**
 	 * 关于页面
-	 * @user jack
+	 * @user jinhang
 	 * 2014年8月6日
 	 */
 	@RequestMapping(value = "about", method = RequestMethod.GET)
@@ -70,7 +70,7 @@ public class IndexController extends BaseController {
 	
 	/**
 	 * 博客活动页面
-	 * @user jack
+	 * @user jinhang
 	 * 2015年4月23日
 	 */
 	@RequestMapping(value = "codingEvent", method = RequestMethod.GET)
@@ -89,7 +89,7 @@ public class IndexController extends BaseController {
 	
 	/**
 	 * 支付宝页面
-	 * @user jack
+	 * @user jinhang
 	 * 2015年4月23日
 	 */
 	@RequestMapping(value = "zhifubao", method = RequestMethod.GET)
@@ -99,7 +99,7 @@ public class IndexController extends BaseController {
 	
 	/**
 	 * 支付宝生成二维码管理
-	 * @user jack
+	 * @user jinhang
 	 * 2015年4月23日
 	 */
 	@RequestMapping(value = "alipayapi", method = RequestMethod.POST)
@@ -109,7 +109,7 @@ public class IndexController extends BaseController {
 	
 	/**
 	 * 支付宝回调
-	 * @user jack
+	 * @user jinhang
 	 * 2015年4月23日
 	 */
 	@RequestMapping(value = "alinotify", method = RequestMethod.GET)
@@ -119,7 +119,7 @@ public class IndexController extends BaseController {
 	
 	/**
 	 * 留下你的想法（用户留言本）
-	 * @user jack
+	 * @user jinhang
 	 * 2014年8月6日
 	 */
 	@RequestMapping(value = "blog/leaveYourMind", method = RequestMethod.GET)
@@ -129,7 +129,7 @@ public class IndexController extends BaseController {
 	
 	/**
 	 * 系统演示
-	 * @user jack
+	 * @user jinhang
 	 * 2014年8月6日
 	 */
 //	@RequestMapping(value = "systemDemo", method = RequestMethod.GET)

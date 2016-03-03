@@ -37,7 +37,7 @@ public class GeneralDaoImpl implements GeneralDao {
 	
 	private static Logger logger = LoggerFactory.getLogger(GeneralDaoImpl.class);
 	
-	//2013.7.22 换一种注入方式
+	//2015.7.22 换一种注入方式
 	/**
 	 * 在讲解依赖注入的3种实现方式之前，这里先澄清一下依赖注入的意义：
 	 * 让组件依赖于抽象，当组件要与其他实际对象发生依赖关系时，通过抽象来注入依赖的实际对象。 
@@ -448,8 +448,8 @@ public class GeneralDaoImpl implements GeneralDao {
 	
 	/**
 	 * 测试
-	 * jack
-	 * 2013-9-5
+	 * jinhang
+	 * 2015-9-5
 	 */
 //	public List<User> test() throws Exception{
 //		List<User> userList = null;

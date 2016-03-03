@@ -11,8 +11,8 @@ public interface GeneralDao {
 	 * 通过sql查询对象list
 	 * @param sql 数据库select语句格式：select * from user where userName like ? and passWord = ? 
 	 * @param values 对象数组，sql语句有几个？，则数组有几个对象，一一对应: new Object[]{"%wang%", "admins"}
-	 * jack
-	 * 2013-9-5
+	 * jinhang
+	 * 2015-9-5
 	 */
 	public <T> List<T> getEntityList(Class<T> beanClass, String sql, Object[] values) throws Exception;
 	/**
@@ -26,8 +26,8 @@ public interface GeneralDao {
 	 * 通过sql查询对象
 	 * @param sql 数据库select语句格式：select * from user where userName = ? 
 	 * @param values 对象数组，sql语句有几个？，则数组有几个对象，一一对应: new Object[]{"wang"}
-	 * jack
-	 * 2013-9-11
+	 * jinhang
+	 * 2015-9-11
 	 */
 	public <T> T getEntity(Class<T> beanClass, String sql, Object[] values) throws Exception;
 	
@@ -49,8 +49,8 @@ public interface GeneralDao {
 	/**
 	 * 删除对象
 	 * @param entity 对象中主键必须有值
-	 * jack
-	 * 2013-9-5
+	 * jinhang
+	 * 2015-9-5
 	 */
 	public boolean delEntity(Object entity) throws Exception;
 	
@@ -102,8 +102,8 @@ public interface GeneralDao {
 	 * 通过sql更新数据库
 	 * @param sql 数据库update语句格式：update stu set s_name=?, s_sex=?, s_brith=? where id=?
 	 * @param values 对象数组，update的sql语句有几个？，则数组有几个对象，一一对应
-	 * jack
-	 * 2013-9-5
+	 * jinhang
+	 * 2015-9-5
 	 */
 	public boolean updateEntity(String sql, Object[] values) throws Exception;
 	
@@ -111,8 +111,8 @@ public interface GeneralDao {
 	 * 更新一个对象的指定字段
 	 * @param entity 要更新的对象，主键必须有值
 	 * @param updateFields String的数组，更新对象的哪些字段
-	 * jack
-	 * 2013-9-5
+	 * jinhang
+	 * 2015-9-5
 	 */
 	public boolean updateEntity(Object entity, String... updateFields) throws Exception;
 	
