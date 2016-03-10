@@ -1,37 +1,35 @@
-# Blog
+åšå®¢ç³»ç»Ÿ
 >
-²©¿ÍÏµÍ³
->
-##Ç°¶Ë
+##å‰ç«¯
 > BootStrap
 >
-##ºó¶Ë
+##åç«¯
 >spring mvc
 >
-##Êı¾İ¿â
+##æ•°æ®åº“
 >mysql 
 >
-##Ç°Ì¨Ò³Ãæ
+##å‰å°é¡µé¢
 
-*Ö÷Ò³
+*ä¸»é¡µ
 
 ![image](https://raw.githubusercontent.com/jinhang/Blog/master/pic/index.png)
 
-*²©¿ÍÒ³Ãæ
+*åšå®¢é¡µé¢
 
 ![image](https://raw.githubusercontent.com/jinhang/Blog/master/pic/content.png)
 
-*ÁôÑÔ°å
+*ç•™è¨€æ¿
 
 ![image](https://raw.githubusercontent.com/jinhang/Blog/master/pic/liuyan.png)
 
-*¹ØÓÚÎÒ
+*å…³äºæˆ‘
 
 ![image](https://raw.githubusercontent.com/jinhang/Blog/master/pic/about.png)
 
-##ºóÌ¨Ò³Ãæ
+##åå°é¡µé¢
 
-*ºóÌ¨¹ÜÀí
+*åå°ç®¡ç†
 
 ![image](https://raw.githubusercontent.com/jinhang/Blog/master/pic/backend.png)
 
